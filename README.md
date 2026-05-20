@@ -1,2 +1,2 @@
-A mini project (Amazon Clone) using just Html And Css
+A mini project (Amazon Clone) using Html And Css
 developed by Raunak
